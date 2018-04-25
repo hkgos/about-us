@@ -14,7 +14,7 @@
 
 
 # 組織由來
-由 A.I.黃翠如 巴打提出 [如果我話想搞返個LIHKG open source team，有冇巴打支持我?](https://lihkg.com/thread/634190/page/1)，然後聚集了一群 Developer 組織成 HKGOS。
+由 A.I.黃翠如 巴打提出 [如果我話想搞返個LIHKG open source team，有冇巴打支持我?](https://lihkg.com/thread/634190/page/1)，然後聚集了一群 Developer 組織成 HKGOS。
 
 
 # 聯絡我們
