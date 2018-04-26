@@ -31,4 +31,4 @@
 # 聯絡我們
 Telegram Group: [Join Telegram Group](https://t.me/joinchat/GgA4HxKLHJs4fi1EYseYWw)
 Slack: [Join Slack](https://join.slack.com/t/hkgos/shared_invite/enQtMzUyNzM5MzY0MDAzLTIwY2JmOTlhNzAwOGY1NGQ2YzVhNzBiNDlkZmY3ZDhkNDU3YzA1Y2VlOGFkOGNjMGE3NTc2YmRkMGQyY2VjY2M)
-如果希望[加入](https://t.me/joinchat/GgA4HxKLHJs4fi1EYseYWw)或提供 repository 請在 [issues(https://github.com/hkgos/awesome-hk-open-source/issues/new)] 留言。
+如果希望[加入](https://t.me/joinchat/GgA4HxKLHJs4fi1EYseYWw)或提供 repository 請在 [issues](https://github.com/hkgos/awesome-hk-open-source/issues/new) 留言。
