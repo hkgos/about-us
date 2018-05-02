@@ -27,6 +27,7 @@
 * 不出一星期己經建立 Github 開始運作
 * 正式宣佈成立 [HKGOS 香港開源小組](https://lihkg.com/thread/641677/page/1)
 * 建立 [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source) 開始收集香港開發者的 open source
+* 建立 [HKGOS Project List](https://github.com/hkgos/hkgos-project-list) 新project構思中
 
 # 聯絡我們
 - Telegram Group: [Join Telegram Group](https://t.me/joinchat/GgA4HxKLHJs4fi1EYseYWw)
