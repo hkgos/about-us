@@ -1,7 +1,7 @@
 # 關於
 我們是來自香港的開發者。Hong Kong Open Source Team.
 
-# 目標
+## 目標
 因為香港幾乎沒有為開發者而建立的社區，希望可以籍此增加香港開發者的聯繫，分享彼此 coding 的經驗。我地既理念係為香港開發者提供一個可以持續發展既社區，推動開源項目以及促進本港術技交流。
 
 創立初期，我們主要收集及搜尋香港人的 open source project，並收錄成一個合集。目的在於推廣本港 open source project 發展，給予開發者更多機會發掘本港的 project，可以從中學習或者參與其中。而 HKGOS 本身都會開發新的 [Project](https://github.com/hkgos/hkgos-project-list)，希望可以在近期展開。
@@ -10,33 +10,38 @@
 
 最後，想各位參與 HKGOS， 將知識無私地貢獻出來，請各位以後多多支持
 
-# 組織由來
+## 組織由來
 * 由 [A.I.黃翠如](https://github.com/benchan1997) 提出 [如果我話想搞返個LIHKG open source team，有冇巴打支持我?](https://lihkg.com/thread/634190/page/1)，然後聚集了一群 Developer 組織成 HKGOS。
-* 不出一星期己經建立 Github 開始運作
+* 不出一星期己經建立 Github 開始運作。
 * 正式宣佈成立 [HKGOS 香港開源小組](https://lihkg.com/thread/641677/page/1)
-* 建立 [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source) 開始收集香港開發者的 open source
-* 建立 [HKGOS Project List](https://github.com/hkgos/hkgos-project-list) 新project構思中
+* 建立 [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source) 開始收集香港開發者的 open source。
+* 建立 [HKGOS Project List](https://github.com/hkgos/hkgos-project-list) 新project構思中。
 
-# Project
+## Project
 * [意見收集中](https://github.com/hkgos/hkgos-project-list)
 * 收集香港開發者的 open source - [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source)
 * 接手無人 maintance 的 repository
 
+## Social
+* [Medium](https://medium.com/hong-kong-open-source) - 文章募集中，如有意加文章到 publication 請自助 submit。
+* [Facebook](https://www.facebook.com/hkgos/) - 定期宣傳本港開發的 open source 並分享開發經驗。
 
-# Todo List
+## Todo List
 - [x] ~~收集 Project~~
 - [x] ~~設計 Logo~~
-- [ ] 寫好 Readme.md
+- [x] 寫好 Readme.md
 - [ ] 建立 HKGOS resource
 - [ ] 開發新 Project
+- [ ] 做全港 Developer 技術調查
+- [ ] 建立 HKGOS Forum
 
-# 聯絡我們
+## 聯絡我們
 - Telegram Group: [Join Telegram Group](https://t.me/joinchat/GgA4HxKLHJs4fi1EYseYWw)
 - Slack: [Join Slack](https://join.slack.com/t/hkgos/shared_invite/enQtMzUyNzM5MzY0MDAzLTIwY2JmOTlhNzAwOGY1NGQ2YzVhNzBiNDlkZmY3ZDhkNDU3YzA1Y2VlOGFkOGNjMGE3NTc2YmRkMGQyY2VjY2M)
 - 如果希望[加入](https://t.me/joinchat/GgA4HxKLHJs4fi1EYseYWw)或提供 repository 請在 [issues](https://github.com/hkgos/awesome-hk-open-source/issues/new) 留言。
 
 
-### Readme格式
+## Readme格式
 編輯 Readme 時請注意以下事項
 * 使用中文書面語令其他地區中文用家都可以閱讀。
 * 句子結尾加上全形中文句號。
