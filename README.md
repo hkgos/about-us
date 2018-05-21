@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hkgos/about-us/master/logo/hkgos-logo.jpg" alt="HKUG logo" width="120" />
+    <img src="https://raw.githubusercontent.com/hkgos/about-us/master/logo/hkgos-logo.jpg" alt="HKGOS logo" width="200" />
 </p>
 
 ## 關於
