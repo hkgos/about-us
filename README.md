@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hkgos/about-us/master/logo/hkgos-logo.jpg" alt="HKUG logo" width="120" />
+</p>
+
 # 關於
 我們是來自香港的開發者。Hong Kong Open Source Team.
 
