@@ -1,9 +1,8 @@
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/hkgos/about-us/master/logo/hkgos-logo.jpg" alt="HKUG logo" width="120" />
+    <img src="https://raw.githubusercontent.com/hkgos/about-us/master/logo/hkgos-logo.jpg" alt="HKUG logo" width="120" />
 </p>
 
-# 關於
+## 關於
 我們是來自香港的開發者。Hong Kong Open Source Team.
 
 ## 目標
@@ -15,16 +14,10 @@
 
 最後，想各位參與 HKGOS， 將知識無私地貢獻出來，請各位以後多多支持
 
-## 組織由來
-* 由 [A.I.黃翠如](https://github.com/benchan1997) 提出 [如果我話想搞返個LIHKG open source team，有冇巴打支持我?](https://lihkg.com/thread/634190/page/1)，然後聚集了一群 Developer 組織成 HKGOS。
-* 不出一星期己經建立 Github 開始運作。
-* 正式宣佈成立 [HKGOS 香港開源小組](https://lihkg.com/thread/641677/page/1)
-* 建立 [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source) 開始收集香港開發者的 open source。
-* 建立 [HKGOS Project List](https://github.com/hkgos/hkgos-project-list) 新project構思中。
-
 ## Project
-* [意見收集中](https://github.com/hkgos/hkgos-project-list)
-* 收集香港開發者的 open source - [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source)
+* [香港 Open Source List](https://github.com/hkgos/hkgos-project-list) - 收集中
+* [HKUG](https://github.com/hkgos/hkug) - HKG + LIHKG ＝HKUG
+* [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source) - 收集香港開發者的 open source
 * 接手無人 maintance 的 repository
 
 ## Social
@@ -39,6 +32,14 @@
 - [ ] 開發新 Project
 - [ ] 做全港 Developer 技術調查
 - [ ] 建立 HKGOS Forum
+
+## 組織由來
+* 由 [A.I.黃翠如](https://github.com/benchan1997) 提出 [如果我話想搞返個LIHKG open source team，有冇巴打支持我?](https://lihkg.com/thread/634190/page/1)，然後聚集了一群 Developer 組織成 HKGOS。
+* 不出一星期己經建立 Github 開始運作。
+* 正式宣佈成立 [HKGOS 香港開源小組](https://lihkg.com/thread/641677/page/1)
+* 建立 [Awesome HK Open Source](https://github.com/hkgos/awesome-hk-open-source) 開始收集香港開發者的 open source。
+* 建立 [HKGOS Project List](https://github.com/hkgos/hkgos-project-list) 新project構思中。
+* 
 
 ## 聯絡我們
 - Telegram Group: [Join Telegram Group](https://t.me/joinchat/GgA4HxKLHJs4fi1EYseYWw)
